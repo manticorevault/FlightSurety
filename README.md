@@ -1,6 +1,21 @@
 # FlightSurety
 
-FlightSurety is a sample application project for Udacity's Blockchain course.
+FlightSurety is a sample project for Udacity's Blockchain course. It offers a decentralized application that offers flight delay insurance to passengers using those services. 
+
+## Truffle Version
+>
+    Truffle v5.1.46
+>
+
+## Node Version
+>
+    node v12.18.3
+>
+
+## web3 Version
+>
+    web3@1.3.0
+>
 
 ## Install
 
